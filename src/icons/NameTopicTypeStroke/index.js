@@ -1,0 +1,1 @@
+export { NameTopicTypeStroke } from "./NameTopicTypeStroke";

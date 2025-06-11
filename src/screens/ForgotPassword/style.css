@@ -1,0 +1,745 @@
+.INSCRIPTION {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.INSCRIPTION .div {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.INSCRIPTION .vector {
+  height: 21px;
+  left: 12163px;
+  position: absolute;
+  top: -2467px;
+  width: 95px;
+}
+
+.INSCRIPTION .overlap {
+  height: 1343px;
+  left: -7px;
+  position: absolute;
+  top: -46px;
+  width: 1935px;
+}
+
+.INSCRIPTION .kjgrn {
+  height: 1080px;
+  left: 7px;
+  position: absolute;
+  top: 46px;
+  width: 1920px;
+}
+
+.INSCRIPTION .image {
+  height: 1080px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1740px;
+}
+
+.INSCRIPTION .group {
+  height: 1343px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1935px;
+}
+
+.INSCRIPTION .overlap-group {
+  background-image: url(../../../static/img/rectangle-1.svg);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 7px;
+  position: relative;
+  top: 46px;
+  width: 1920px;
+}
+
+.INSCRIPTION .mask-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.INSCRIPTION .group-2 {
+  height: 334px;
+  left: 187px;
+  position: absolute;
+  top: 419px;
+  width: 363px;
+}
+
+.INSCRIPTION .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  height: 79px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 55.2px;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.INSCRIPTION .p {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 107px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  top: 125px;
+  width: 359px;
+}
+
+.INSCRIPTION .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 284px;
+}
+
+.INSCRIPTION .frame-wrapper {
+  height: 50px;
+  position: relative;
+  width: 177px;
+}
+
+.INSCRIPTION .group-wrapper {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 41.5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 50px;
+  padding: 15px 20px;
+  position: relative;
+  width: 177px;
+}
+
+.INSCRIPTION .group-3 {
+  height: 20.47px;
+  margin-bottom: -0.47px;
+  margin-right: -0.73px;
+  position: relative;
+  width: 137.73px;
+}
+
+.INSCRIPTION .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Gilroy-ExtraBold-☞", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .chevron-down-wrapper {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 10.24px;
+  height: 20px;
+  left: 115px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.INSCRIPTION .chevron-down {
+  height: 7px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 4px;
+}
+
+.INSCRIPTION .group-4 {
+  -webkit-backdrop-filter: blur(70px) brightness(100%);
+  backdrop-filter: blur(70px) brightness(100%);
+  background-color: #ffffffb2;
+  border-radius: 20px;
+  height: 873px;
+  left: 1053px;
+  position: absolute;
+  top: 150px;
+  width: 661px;
+}
+
+.INSCRIPTION .img {
+  height: 19px;
+  left: 618px;
+  position: absolute;
+  top: 44px;
+  width: 19px;
+}
+
+.INSCRIPTION .group-5 {
+  height: 803px;
+  left: 71px;
+  position: absolute;
+  top: 35px;
+  width: 519px;
+}
+
+.INSCRIPTION .group-6 {
+  height: 30px;
+  left: 138px;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.INSCRIPTION .div-wrapper {
+  background-color: #005dff0f;
+  border-radius: 15px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.INSCRIPTION .text-wrapper-3 {
+  color: #222222;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 26.2px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .text-wrapper-4 {
+  color: #222222;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  height: 26px;
+  left: 163px;
+  letter-spacing: 0;
+  line-height: 26.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .line {
+  height: 18px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.INSCRIPTION .group-7 {
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 89px;
+  width: 521px;
+}
+
+.INSCRIPTION .text-wrapper-5 {
+  color: #494949;
+  font-family: "Reaktif-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 40px;
+  left: 119px;
+  letter-spacing: 0;
+  line-height: 20.1px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 302px;
+}
+
+.INSCRIPTION .group-8 {
+  border: 1px solid;
+  border-color: #929292;
+  border-radius: 24.5px;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 519px;
+}
+
+.INSCRIPTION .group-9 {
+  height: 28px;
+  left: 152px;
+  position: relative;
+  top: 9px;
+  width: 214px;
+}
+
+.INSCRIPTION .text-wrapper-6 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 700;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.INSCRIPTION .group-10 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 23px;
+}
+
+.INSCRIPTION .line-2 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 327px;
+  width: 519px;
+}
+
+.INSCRIPTION .group-11 {
+  height: 414px;
+  left: 0;
+  position: absolute;
+  top: 389px;
+  width: 521px;
+}
+
+.INSCRIPTION .vous-d-ja-un-compte {
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 382px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .span {
+  color: #363636;
+  font-weight: 500;
+}
+
+.INSCRIPTION .text-wrapper-7 {
+  color: #005dff;
+  font-weight: 500;
+}
+
+.INSCRIPTION .text-wrapper-8 {
+  color: #005dff;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.INSCRIPTION .group-12 {
+  height: 362px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 521px;
+}
+
+.INSCRIPTION .text-wrapper-9 {
+  color: #494949;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-decoration: underline;
+  top: 330px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .group-13 {
+  height: 317px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 519px;
+}
+
+.INSCRIPTION .group-14 {
+  height: 217px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 519px;
+}
+
+.INSCRIPTION .overlap-group-wrapper {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 258px;
+}
+
+.INSCRIPTION .overlap-group-2 {
+  background-color: #3636360f;
+  border-radius: 5px;
+  height: 49px;
+  position: relative;
+  width: 256px;
+}
+
+.INSCRIPTION .text-wrapper-10 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .overlap-wrapper {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 520px;
+}
+
+.INSCRIPTION .overlap-2 {
+  background-color: #3636360f;
+  border-radius: 5px;
+  height: 49px;
+  position: relative;
+  width: 518px;
+}
+
+.INSCRIPTION .vector-2 {
+  height: 4px;
+  left: 494px;
+  position: absolute;
+  top: 22px;
+  width: 7px;
+}
+
+.INSCRIPTION .group-15 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 168px;
+  width: 258px;
+}
+
+.INSCRIPTION .group-16 {
+  height: 49px;
+  left: 263px;
+  position: absolute;
+  top: 168px;
+  width: 258px;
+}
+
+.INSCRIPTION .group-17 {
+  height: 49px;
+  left: 263px;
+  position: absolute;
+  top: 56px;
+  width: 258px;
+}
+
+.INSCRIPTION .group-18 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 523px;
+}
+
+.INSCRIPTION .overlap-3 {
+  background-color: #3636360f;
+  border-radius: 5px;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.INSCRIPTION .text-wrapper-11 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .overlap-4 {
+  background-color: #3636360f;
+  border-radius: 5px;
+  height: 49px;
+  left: 263px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.INSCRIPTION .group-19 {
+  height: 43px;
+  left: 1px;
+  position: absolute;
+  top: 274px;
+  width: 520px;
+}
+
+.INSCRIPTION .overlap-5 {
+  background-color: #ffc001;
+  border-radius: 26px;
+  height: 43px;
+  position: relative;
+  width: 518px;
+}
+
+.INSCRIPTION .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 217px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .group-20 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 230px;
+  width: 518px;
+}
+
+.INSCRIPTION .ellipse-wrapper {
+  background-color: #005dff;
+  border-radius: 4.5px;
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 19px;
+}
+
+.INSCRIPTION .ellipse {
+  background-color: #ffffff;
+  border-radius: 3.5px;
+  height: 7px;
+  left: 11px;
+  position: relative;
+  top: 1px;
+  width: 7px;
+}
+
+.INSCRIPTION .group-21 {
+  height: 28px;
+  left: 205px;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.INSCRIPTION .group-22 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 177px;
+}
+
+.INSCRIPTION .text-wrapper-13 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .text-wrapper-14 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .text-wrapper-15 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .text-wrapper-16 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .rectangle {
+  border: 1px solid;
+  border-color: #22222291;
+  height: 7px;
+  left: 58px;
+  position: absolute;
+  top: 11px;
+  width: 8px;
+}
+
+.INSCRIPTION .rectangle-2 {
+  border: 1px solid;
+  border-color: #22222291;
+  height: 7px;
+  left: 93px;
+  position: absolute;
+  top: 11px;
+  width: 8px;
+}
+
+.INSCRIPTION .rectangle-3 {
+  border: 1px solid;
+  border-color: #22222291;
+  height: 7px;
+  left: 141px;
+  position: absolute;
+  top: 11px;
+  width: 8px;
+}
+
+.INSCRIPTION .vector-3 {
+  height: 12px;
+  left: 302px;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+
+.INSCRIPTION .text-wrapper-17 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 600;
+  left: 203px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.INSCRIPTION .group-23 {
+  border: 1px solid;
+  border-color: #8c8c8c;
+  border-radius: 24.5px;
+  height: 49px;
+  left: 1124px;
+  position: absolute;
+  top: 437px;
+  width: 519px;
+}
+
+.INSCRIPTION .group-24 {
+  height: 28px;
+  left: 166px;
+  position: relative;
+  top: 9px;
+  width: 196px;
+}
+
+.INSCRIPTION .text-wrapper-18 {
+  color: #5b5b5b;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  top: 0;
+  width: 144px;
+}
+
+.INSCRIPTION .group-25 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}

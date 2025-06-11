@@ -1,0 +1,1 @@
+export { DtailsDeLa } from "./DtailsDeLa";

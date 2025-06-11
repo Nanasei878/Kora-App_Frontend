@@ -1,0 +1,33 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --backgroundbackground-1: rgba(249, 245, 253, 1);
+  --highlightshighlight-1: rgba(115, 76, 201, 1);
+  --highlightshighlight-2: rgba(144, 210, 114, 1);
+  --highlightshighlight-3: rgba(120, 170, 244, 1);
+  --highlightshighlight-4: rgba(172, 233, 225, 1);
+  --highlightshighlight-5: rgba(214, 182, 100, 1);
+  --highlightshighlight-6: rgba(235, 106, 106, 1);
+  --lightcolorsgreen: rgba(0, 186, 52, 1);
+  --lightcolorsorange: rgba(255, 129, 26, 1);
+  --lighticon: rgba(108, 124, 147, 1);
+  --lightprimary: rgba(59, 53, 81, 1);
+  --lightprimary-colorsbackground: rgba(255, 255, 255, 1);
+  --lightprimary-colorsterciary: rgba(150, 150, 150, 1);
+  --lightsecondary: rgba(111, 127, 149, 1);
+  --lightwhite: rgba(255, 255, 255, 1);
+  --main-shadow: 0px 3px 4px 0px rgba(227, 227, 227, 0.29);
+  --variable-collection-cfgjcgjc: rgba(255, 192, 1, 1);
+  --variable-collection-cgjcgj: rgba(0, 93, 255, 1);
+  --variable-collection-fatal: rgba(23, 18, 127, 1);
+  --variable-collection-fyjfhggj: rgba(54, 54, 54, 1);
+  --variable-collection-sdgsgsdg: rgba(34, 34, 34, 1);
+  --variable-collection-xfhxfh: rgba(0, 48, 131, 1);
+}

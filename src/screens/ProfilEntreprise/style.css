@@ -1,0 +1,1454 @@
+.profil-entreprise {
+  background-color: #ffffff;
+  height: 1375px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.profil-entreprise .vector {
+  height: 21px;
+  left: -24368px;
+  position: absolute;
+  top: -5196px;
+  width: 95px;
+}
+
+.profil-entreprise .div {
+  height: 1640px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.profil-entreprise .overlap {
+  height: 1640px;
+  position: relative;
+}
+
+.profil-entreprise .page-background {
+  background-color: #fff1e8;
+  border-radius: 2px;
+  height: 1604px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.profil-entreprise .content-background {
+  background-color: #f2f2f2;
+  border-radius: 0px 0px 0px 38px;
+  height: 1510px;
+  left: 345px;
+  position: absolute;
+  top: 94px;
+  width: 1575px;
+}
+
+.profil-entreprise .CONTENT {
+  height: 1487px;
+  left: 395px;
+  position: absolute;
+  top: 153px;
+  width: 1482px;
+}
+
+.profil-entreprise .edit-form {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 1487px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1104px;
+}
+
+.profil-entreprise .general {
+  height: 305px;
+  left: 29px;
+  position: absolute;
+  top: 124px;
+  width: 1048px;
+}
+
+.profil-entreprise .input {
+  height: 109px;
+  left: 1px;
+  position: absolute;
+  top: 57px;
+  width: 333px;
+}
+
+.profil-entreprise .background {
+  background-color: #fbfbfb;
+  border: 1px solid;
+  border-color: #c2c2c2;
+  border-radius: 20px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 108px;
+  width: 329px;
+}
+
+.profil-entreprise .text-wrapper {
+  color: #505050;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.profil-entreprise .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.profil-entreprise .text-wrapper-3 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.profil-entreprise .input-2 {
+  height: 109px;
+  left: 359px;
+  position: absolute;
+  top: 57px;
+  width: 333px;
+}
+
+.profil-entreprise .text-wrapper-4 {
+  color: #bbbbbb;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.profil-entreprise .input-3 {
+  height: 110px;
+  left: 717px;
+  position: absolute;
+  top: 57px;
+  width: 333px;
+}
+
+.profil-entreprise .background-2 {
+  background-color: #fbfbfb;
+  border: 1px solid;
+  border-color: #005dff;
+  border-radius: 20px;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 108px;
+  width: 329px;
+}
+
+.profil-entreprise .cursor {
+  background-color: #005dff;
+  height: 25px;
+  left: 48px;
+  position: absolute;
+  top: 63px;
+  width: 2px;
+}
+
+.profil-entreprise .input-4 {
+  height: 109px;
+  left: 1px;
+  position: absolute;
+  top: 196px;
+  width: 333px;
+}
+
+.profil-entreprise .input-5 {
+  height: 109px;
+  left: 359px;
+  position: absolute;
+  top: 196px;
+  width: 335px;
+}
+
+.profil-entreprise .text-wrapper-5 {
+  color: #005dff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 252px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.profil-entreprise .input-6 {
+  height: 109px;
+  left: 717px;
+  position: absolute;
+  top: 196px;
+  width: 335px;
+}
+
+.profil-entreprise .text-wrapper-6 {
+  color: #005dff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.profil-entreprise .divider {
+  background-color: #e6e6e6;
+  height: 1px;
+  left: 100px;
+  position: absolute;
+  top: 13px;
+  width: 945px;
+}
+
+.profil-entreprise .contact {
+  height: 305px;
+  left: 29px;
+  position: absolute;
+  top: 502px;
+  width: 1048px;
+}
+
+.profil-entreprise .telephone {
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 66px;
+  width: 24px;
+}
+
+.profil-entreprise .text-wrapper-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 63px;
+}
+
+.profil-entreprise .input-7 {
+  height: 109px;
+  left: 358px;
+  position: absolute;
+  top: 196px;
+  width: 333px;
+}
+
+.profil-entreprise .background-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c2c2c2;
+  border-radius: 20px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 108px;
+  width: 329px;
+}
+
+.profil-entreprise .ic-chevron {
+  height: 17px;
+  left: 281px;
+  position: absolute;
+  top: 68px;
+  width: 17px;
+}
+
+.profil-entreprise .input-8 {
+  height: 109px;
+  left: 716px;
+  position: absolute;
+  top: 196px;
+  width: 333px;
+}
+
+.profil-entreprise .img {
+  height: 17px;
+  left: 276px;
+  position: absolute;
+  top: 68px;
+  width: 17px;
+}
+
+.profil-entreprise .text-wrapper-8 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.profil-entreprise .whatsapp {
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 64px;
+  width: 24px;
+}
+
+.profil-entreprise .input-9 {
+  height: 109px;
+  left: 717px;
+  position: absolute;
+  top: 57px;
+  width: 333px;
+}
+
+.profil-entreprise .text-wrapper-9 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.profil-entreprise .email {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 64px;
+  width: 24px;
+}
+
+.profil-entreprise .divider-2 {
+  background-color: #e6e6e6;
+  height: 1px;
+  left: 121px;
+  position: absolute;
+  top: 13px;
+  width: 924px;
+}
+
+.profil-entreprise .about {
+  height: 268px;
+  left: 29px;
+  position: absolute;
+  top: 880px;
+  width: 1047px;
+}
+
+.profil-entreprise .input-10 {
+  height: 211px;
+  left: 1px;
+  position: absolute;
+  top: 57px;
+  width: 1048px;
+}
+
+/*.profil-entreprise .overlap-group {
+  background-color: #fbfbfb;
+  border: 1px solid;
+  border-color: #c2c2c2;
+  border-radius: 20px;
+  height: 170px;
+  left: 0;
+  position: absolute;
+  top: 41px;
+  width: 1044px;
+}*/
+
+.profil-entreprise .overlap-group {
+  background-color: #fbfbfb;
+  border: 1px solid;
+  border-color: #c2c2c2;
+  border-radius: 20px;
+  height: 170px;
+  left: 0;
+  position: absolute;
+  top: 41px;
+  width: 1044px;
+  overflow: hidden;
+  /* Keeps content inside the container */
+  padding: 10px;
+  /* Adds padding to the container */
+  box-sizing: border-box;
+  /* Ensures padding is included in the dimensions */
+}
+
+
+.profil-entreprise .lorem-ipsum-dolor {
+  color: #0b0b0bb2;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 996px;
+  resize: none;  /* Disable resizing */
+  white-space: pre-wrap;/* Ensure text wraps correctly */
+  word-wrap: break-word; /* Ensure long words break and wrap */
+  overflow: hidden; /* Ensures no scrollbar */
+}
+
+
+.profil-entreprise .divider-3 {
+  background-color: #e6e6e6;
+  height: 1px;
+  left: 171px;
+  position: absolute;
+  top: 13px;
+  width: 874px;
+}
+
+.profil-entreprise .skills {
+  height: 216px;
+  left: 28px;
+  position: absolute;
+  top: 1217px;
+  width: 1052px;
+}
+
+.profil-entreprise .item {
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 489px;
+}
+
+.profil-entreprise .overlap-group-2 {
+  height: 26px;
+  left: 90px;
+  position: absolute;
+  top: 36px;
+  width: 395px;
+}
+
+.profil-entreprise .background-4 {
+  background-color: #eeeeee;
+  border-radius: 20px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 395px;
+}
+
+.profil-entreprise .active {
+  background-color: #005dff;
+  border-radius: 20px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 270px;
+}
+
+.profil-entreprise .handler {
+  background-color: #005dff;
+  border-radius: 5px;
+  height: 26px;
+  left: 247px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.profil-entreprise .text-wrapper-10 {
+  color: #505050;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.profil-entreprise .div-wrapper {
+  border: 1px solid;
+  border-color: #f3eff8;
+  border-radius: 70px;
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 62px;
+}
+
+.profil-entreprise .text-wrapper-11 {
+  color: #005dff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 18px;
+}
+
+.profil-entreprise .item-2 {
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 154px;
+  width: 489px;
+}
+
+.profil-entreprise .active-2 {
+  background-color: #005dff;
+  border-radius: 20px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 322px;
+}
+
+.profil-entreprise .handler-2 {
+  background-color: #005dff;
+  border-radius: 5px;
+  height: 26px;
+  left: 312px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.profil-entreprise .text-wrapper-12 {
+  color: #005dff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 18px;
+}
+
+.profil-entreprise .item-3 {
+  height: 62px;
+  left: 561px;
+  position: absolute;
+  top: 60px;
+  width: 489px;
+}
+
+.profil-entreprise .active-3 {
+  background-color: #005dff;
+  border-radius: 20px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 212px;
+}
+
+.profil-entreprise .handler-3 {
+  background-color: #005dff;
+  border-radius: 5px;
+  height: 26px;
+  left: 198px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.profil-entreprise .item-4 {
+  height: 62px;
+  left: 561px;
+  position: absolute;
+  top: 154px;
+  width: 489px;
+}
+
+.profil-entreprise .active-4 {
+  background-color: #005dff;
+  border-radius: 20px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 358px;
+}
+
+.profil-entreprise .handler-4 {
+  background-color: #005dff;
+  border-radius: 5px;
+  height: 26px;
+  left: 346px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.profil-entreprise .r-sultats-de-test {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.profil-entreprise .divider-4 {
+  background-color: #e6e6e6;
+  height: 6px;
+  left: 187px;
+  position: absolute;
+  top: 15px;
+  width: 655px;
+}
+
+.profil-entreprise .text-wrapper-13 {
+  color: #005dff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 878px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.profil-entreprise .title-bar {
+  height: 57px;
+  left: 31px;
+  position: absolute;
+  top: 26px;
+  width: 1045px;
+}
+
+.profil-entreprise .btn-save {
+  height: 57px;
+  left: 851px;
+  position: absolute;
+  top: 0;
+  width: 194px;
+}
+
+.profil-entreprise .overlap-group-3 {
+  background-color: #005dff;
+  border-radius: 54px;
+  height: 57px;
+  position: relative;
+  width: 192px;
+}
+
+.profil-entreprise .text-wrapper-14 {
+  color: #fffcfc;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.profil-entreprise .btn-cancel {
+  height: 57px;
+  left: 702px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.profil-entreprise .overlap-2 {
+  background-color: #f4f4f4;
+  border-radius: 54px;
+  height: 57px;
+  position: relative;
+  width: 129px;
+}
+
+.profil-entreprise .text-wrapper-15 {
+  color: #9f9f9f;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.profil-entreprise .option {
+  height: 25px;
+  left: 357px;
+  position: absolute;
+  top: 16px;
+  width: 282px;
+}
+
+.profil-entreprise .ic-switch {
+  height: 24px;
+  left: 235px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.profil-entreprise .overlap-group-4 {
+  height: 24px;
+  position: relative;
+}
+
+.profil-entreprise .element {
+  background-color: #e4cfff;
+  border-radius: 23px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 33px;
+}
+
+.profil-entreprise .element-2 {
+  background-color: #005dff;
+  border-radius: 12px;
+  height: 24px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.profil-entreprise .disponible-l {
+  color: #5c5c5c;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.profil-entreprise .text-wrapper-16 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.profil-entreprise .profile-summary {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 630px;
+  left: 1143px;
+  position: absolute;
+  top: 0;
+  width: 339px;
+}
+
+.profil-entreprise .phone {
+  height: 49px;
+  left: 29px;
+  position: absolute;
+  top: 461px;
+  width: 207px;
+}
+
+.profil-entreprise .img-wrapper {
+  border: 1px solid;
+  border-color: #3f179d29;
+  border-radius: 50px;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.profil-entreprise .img-2 {
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.profil-entreprise .text-wrapper-17 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.profil-entreprise .email-2 {
+  height: 49px;
+  left: 29px;
+  position: absolute;
+  top: 531px;
+  width: 257px;
+}
+
+.profil-entreprise .mail-com {
+  background: transparent;
+  border: none;
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.profil-entreprise .divider-5 {
+  background-color: #eaeaea;
+  border-radius: 20px;
+  height: 1px;
+  left: 31px;
+  position: absolute;
+  top: 423px;
+  width: 279px;
+}
+
+.profil-entreprise .following {
+  height: 85px;
+  left: 30px;
+  position: absolute;
+  top: 301px;
+  width: 133px;
+}
+
+.profil-entreprise .overlap-3 {
+  border: 1px solid;
+  border-color: #f0f0f0;
+  border-radius: 19px;
+  height: 85px;
+  position: relative;
+  width: 129px;
+}
+
+.profil-entreprise .text-wrapper-18 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.profil-entreprise .text-wrapper-19 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 49px;
+}
+
+.profil-entreprise .followers {
+  height: 85px;
+  left: 181px;
+  position: absolute;
+  top: 302px;
+  width: 133px;
+}
+
+.profil-entreprise .text-wrapper-20 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.profil-entreprise .text-wrapper-21 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.profil-entreprise .profile-picture {
+  height: 152px;
+  left: 94px;
+  position: absolute;
+  top: 36px;
+  width: 152px;
+}
+
+.profil-entreprise .text {
+  height: 62px;
+  left: 108px;
+  position: absolute;
+  top: 209px;
+  width: 126px;
+}
+
+.profil-entreprise .text-wrapper-22 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.profil-entreprise .text-wrapper-23 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+}
+
+.profil-entreprise .SIDEBAR {
+  height: 1604px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 364px;
+}
+
+.profil-entreprise .overlap-4 {
+  height: 1604px;
+  position: relative;
+  width: 368px;
+}
+
+.profil-entreprise .background-5 {
+  background-color: #fff1e8;
+  border-radius: 2px;
+  height: 1604px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.profil-entreprise .background-6 {
+  background-color: #fce3d3;
+  border-radius: 0px 30px 2px 0px;
+  height: 747px;
+  left: 0;
+  position: absolute;
+  top: 857px;
+  width: 345px;
+}
+
+.profil-entreprise .mainmenu {
+  height: 902px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 368px;
+}
+
+.profil-entreprise .search-job {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 209px;
+  width: 347px;
+}
+
+.profil-entreprise .overlap-group-5 {
+  background-color: #fff1e8;
+  height: 80px;
+  position: relative;
+  width: 345px;
+}
+
+.profil-entreprise .text-wrapper-24 {
+  color: #707070;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+}
+
+.profil-entreprise .img-3 {
+  height: 28px;
+  left: 76px;
+  position: absolute;
+  top: 26px;
+  width: 28px;
+}
+
+.profil-entreprise .overlap-5 {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 366px;
+}
+
+.profil-entreprise .overlap-wrapper {
+  display: block;
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 366px;
+}
+
+.profil-entreprise .overlap-6 {
+  height: 163px;
+  position: relative;
+  width: 364px;
+}
+
+.profil-entreprise .background-7 {
+  background-color: #fff1e8;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 37px;
+  width: 345px;
+}
+
+.profil-entreprise .background-8 {
+  height: 163px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 302px;
+}
+
+.profil-entreprise .text-wrapper-25 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 63px;
+}
+
+.profil-entreprise .ic-search {
+  height: 28px;
+  left: 76px;
+  position: absolute;
+  top: 63px;
+  width: 28px;
+}
+
+.profil-entreprise .dashboard {
+  height: 60px;
+  left: 60px;
+  position: absolute;
+  top: 129px;
+  width: 241px;
+}
+
+.profil-entreprise .text-wrapper-26 {
+  color: #707070;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.profil-entreprise .ic-home-wrapper {
+  border-radius: 18px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.profil-entreprise .ic-home {
+  height: 28px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 28px;
+}
+
+.profil-entreprise .application {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 299px;
+  width: 347px;
+}
+
+.profil-entreprise .text-wrapper-27 {
+  color: #707070;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 171px;
+}
+
+.profil-entreprise .news {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 493px;
+  width: 347px;
+}
+
+.profil-entreprise .message {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 389px;
+  width: 347px;
+}
+
+.profil-entreprise .overlap-7 {
+  background-image: url(../../../static/img/background-1.svg);
+  background-size: 100% 100%;
+  height: 80px;
+  position: relative;
+  width: 345px;
+}
+
+.profil-entreprise .text-wrapper-28 {
+  color: #707070;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 125px;
+}
+
+.profil-entreprise .text-wrapper-29 {
+  color: #707070;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 825px;
+}
+
+.profil-entreprise .text-wrapper-30 {
+  color: #707070;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 875px;
+}
+
+.profil-entreprise .vector-2 {
+  height: 27px;
+  left: 75px;
+  position: absolute;
+  top: 829px;
+  width: 27px;
+}
+
+.profil-entreprise .vector-3 {
+  height: 15px;
+  left: 72px;
+  position: absolute;
+  top: 881px;
+  width: 27px;
+}
+
+.profil-entreprise .NAV {
+  background-color: #f2f2f2;
+  height: 120px;
+  left: 345px;
+  position: absolute;
+  top: 0;
+  width: 1575px;
+}
+
+.profil-entreprise .profile {
+  display: block;
+  height: 57px;
+  left: 1340px;
+  position: absolute;
+  top: 31px;
+  width: 182px;
+}
+
+.profil-entreprise .text-wrapper-31 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.profil-entreprise .text-wrapper-32 {
+  color: #8f8f8f;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+}
+
+.profil-entreprise .profile-picture-2 {
+  background-color: #c4c4c4;
+  border-radius: 65px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.profil-entreprise .notification {
+  height: 65px;
+  left: 1215px;
+  position: absolute;
+  top: 23px;
+  width: 61px;
+}
+
+.profil-entreprise .overlap-8 {
+  height: 65px;
+  position: relative;
+  width: 63px;
+}
+
+.profil-entreprise .background-9 {
+  background-color: #ffffff;
+  border-radius: 49px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 56px;
+}
+
+.profil-entreprise .img-4 {
+  height: 28px;
+  left: 14px;
+  position: absolute;
+  top: 23px;
+  width: 28px;
+}
+
+.profil-entreprise .dot-counter {
+  height: 26px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.profil-entreprise .overlap-group-6 {
+  background-color: #f97316;
+  border-radius: 13px;
+  box-shadow: 0px 6px 8px #8643df5e;
+  height: 26px;
+  position: relative;
+  width: 26px;
+}
+
+.profil-entreprise .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.profil-entreprise .main-title {
+  height: 42px;
+  left: 50px;
+  position: absolute;
+  top: 39px;
+  width: 300px;
+}
+
+.profil-entreprise .text-wrapper-34 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.profil-entreprise .ic-menu {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 29px;
+}
+
+.profil-entreprise .searchbox {
+  height: 56px;
+  left: 510px;
+  position: absolute;
+  top: 32px;
+  width: 511px;
+}
+
+.profil-entreprise .overlap-9 {
+  background-color: #e3e3e3;
+  border-radius: 82px;
+  height: 56px;
+  position: relative;
+  width: 509px;
+}
+
+.profil-entreprise .ic-search-2 {
+  height: 28px;
+  left: 448px;
+  position: absolute;
+  top: 14px;
+  width: 28px;
+}
+
+.profil-entreprise .text-wrapper-35 {
+  color: #757575;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.profil-entreprise .overlap-group-wrapper {
+  height: 65px;
+  left: 1115px;
+  position: absolute;
+  top: 23px;
+  width: 61px;
+}
+
+.profil-entreprise .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}

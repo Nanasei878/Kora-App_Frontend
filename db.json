@@ -1,0 +1,307 @@
+{
+  "profiles": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "middleName": "A.",
+      "lastName": "Doe",
+      "username": "johndoe123",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "role": "User",
+      "aboutMe": "A software developer from XYZ",
+      "avatar": "https://example.com/avatar.jpg",
+      "profile": {
+        "experiences": [
+          "Frontend Developer",
+          "Backend Developer"
+        ],
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js"
+        ],
+        "certifications": [
+          "AWS Certified Developer",
+          "Certified Scrum Master"
+        ]
+      },
+      "availability": "Available",
+      "address": {
+        "country": "Côte d'Ivoire",
+        "city": "Abidjan",
+        "postalCode": "00225",
+        "address": "Rue des Palmiers, Cocody"
+      },
+      "contact": {
+        "phoneNumber": "123-456-7890",
+        "whatsapp": "987-654-3210"
+      },
+      "portfolio": {
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "facebook": "https://facebook.com/johndoe",
+        "youtube": "https://youtube.com/johndoe",
+        "huggingface": "https://huggingface.co/johndoe"
+      },
+      "socialPresence": {
+        "followers": 100,
+        "following": 50
+      }
+    },
+    {
+      "id": "3914",
+      "email": "nanaseice@gmail.com"
+    },
+    {
+      "id": "a936",
+      "email": "nanaseice@gmail.com"
+    }
+  ],
+   "profilEntreprise": [
+    {
+      "id": 1,
+      "firstName": "Israël",
+      "middleName": "David",
+      "lastName": "SILUE",
+      "username": "israelree",
+      "email": "israel.silue@example.com",
+      "password": "hashedpassword123",
+      "role": "CEO",
+      "aboutMe": "Je suis un entrepreneur passionné par la technologie et le design UI/UX.",
+      "avatar": "https://example.com/avatar.png",
+      "availability": "available",
+      "address": {
+        "country": "Côte d'Ivoire",
+        "city": "Abidjan",
+        "postalCode": "225",
+        "address": "Riviera Faya"
+      },
+      "contact": {
+        "phoneNumber": "+2250747588167",
+        "whatsapp": "+2250747588167"
+      },
+      "portfolio": {
+        "linkedin": "https://linkedin.com/in/israel-silue",
+        "github": "https://github.com/israelree",
+        "facebook": "https://facebook.com/israel.silue",
+        "youtube": "https://youtube.com/@israelree",
+        "huggingface": "https://huggingface.co/israelree"
+      },
+      "socialPresence": {
+        "followers": 4842,
+        "following": 228
+      },
+      "profile": {
+        "experiences": [
+          {
+            "title": "Lead UI/UX Designer",
+            "company": "TechVision",
+            "duration": "2021-2023"
+          }
+        ],
+        "skills": [
+          "Web Development",
+          "UI Design",
+          "Prototyping",
+          "Recherche"
+        ],
+        "certifications": [
+          {
+            "title": "UX Design Certification",
+            "issuer": "Coursera"
+          }
+        ]
+      }
+    }
+  ]
+  ,
+  "jobs": [
+  {
+    "id": 1,
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam..."
+  },
+  {
+    "id": 2,
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 3,
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 4,  
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 5,
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 6,  
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 7,  
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 8,  
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 9,    
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 10, 
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 11,
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 12,   
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 13,   
+    "title": "Database Programmer",
+    "company": "Maximoz Team",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 14,            
+    "title": "Frontend Programmer",
+    "company": "Kitakita Crew Ltd.",
+    "salary": "$14,000 - $25,000",
+    "location": "London, England",
+    "type": "À DISTANCE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+],
+"courses": [
+  {
+    "id": 1,
+    "category": "Finance",
+    "title": "The Complete Investment Banking Course 2023",
+    "rating": 4.8,
+    "reviews": 31882,
+    "price": 120.0,
+    "image": "/path-to-image.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Finance",
+    "title": "Financial Modeling Masterclass",
+    "rating": 4.7,
+    "reviews": 25214,
+    "price": 99.99,
+    "image": "/path-to-image.jpg"
+  },
+  {
+      "id": 3,
+      "category": "Math",
+      "title": "Learn advanced mathematics concepts.",
+      "rating": 4.5,
+      "reviews": 18982,
+      "price": 120.0,
+      "image": "/path-to-image.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Math",
+      "title": "Learn advanced mathematics concepts.",
+      "rating": 4.5,
+      "reviews": 18982,
+      "price": 120.0,
+      "image": "/path-to-image.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Economy",
+      "title": "Economy",
+      "rating": 4.7,
+      "reviews": 200000,
+      "price": 150.0,
+      "image": "/path-to-image.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Art",
+      "title": "Art",
+      "rating": 4.7,
+      "reviews": 120000,
+      "price": 80.0,
+      "image": "/path-to-image.jpg"
+    }
+  ]
+
+}
+
+
+

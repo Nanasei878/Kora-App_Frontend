@@ -1,0 +1,1 @@
+export { NameMessageTypeStroke } from "./NameMessageTypeStroke";

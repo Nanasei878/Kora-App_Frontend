@@ -1,0 +1,1 @@
+export { SortSmall } from "./SortSmall";

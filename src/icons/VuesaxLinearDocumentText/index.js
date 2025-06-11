@@ -1,0 +1,1 @@
+export { VuesaxLinearDocumentText } from "./VuesaxLinearDocumentText";

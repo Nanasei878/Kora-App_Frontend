@@ -1,0 +1,1 @@
+export { NameTeacherTypeStroke } from "./NameTeacherTypeStroke";

@@ -1,0 +1,1 @@
+export { TypePrimaryIcon } from "./TypePrimaryIcon";

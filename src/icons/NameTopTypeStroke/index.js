@@ -1,0 +1,1 @@
+export { NameTopTypeStroke } from "./NameTopTypeStroke";

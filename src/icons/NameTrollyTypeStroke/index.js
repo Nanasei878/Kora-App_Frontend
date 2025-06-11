@@ -1,0 +1,1 @@
+export { NameTrollyTypeStroke } from "./NameTrollyTypeStroke";

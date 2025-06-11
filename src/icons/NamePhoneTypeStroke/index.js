@@ -1,0 +1,1 @@
+export { NamePhoneTypeStroke } from "./NamePhoneTypeStroke";

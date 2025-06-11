@@ -1,0 +1,4 @@
+{
+    "/profiles/:username": "/profiles?username=:username"
+  }
+  

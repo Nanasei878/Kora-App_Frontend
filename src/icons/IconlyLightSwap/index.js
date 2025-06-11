@@ -1,0 +1,1 @@
+export { IconlyLightSwap } from "./IconlyLightSwap";

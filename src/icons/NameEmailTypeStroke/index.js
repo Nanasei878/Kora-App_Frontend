@@ -1,0 +1,1 @@
+export { NameEmailTypeStroke } from "./NameEmailTypeStroke";

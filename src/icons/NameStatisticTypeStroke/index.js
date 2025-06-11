@@ -1,0 +1,1 @@
+export { NameStatisticTypeStroke } from "./NameStatisticTypeStroke";

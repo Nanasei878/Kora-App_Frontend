@@ -1,0 +1,1 @@
+export { VuesaxLinearGroup } from "./VuesaxLinearGroup";

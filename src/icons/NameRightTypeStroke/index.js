@@ -1,0 +1,1 @@
+export { NameRightTypeStroke } from "./NameRightTypeStroke";

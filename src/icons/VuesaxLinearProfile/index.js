@@ -1,0 +1,1 @@
+export { VuesaxLinearProfile } from "./VuesaxLinearProfile";

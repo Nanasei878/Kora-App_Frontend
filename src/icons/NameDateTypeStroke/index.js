@@ -1,0 +1,1 @@
+export { NameDateTypeStroke } from "./NameDateTypeStroke";

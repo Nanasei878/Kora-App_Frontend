@@ -1,0 +1,1 @@
+export { VuesaxLinearArrowUp } from "./VuesaxLinearArrowUp";

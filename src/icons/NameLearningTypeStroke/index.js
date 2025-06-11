@@ -1,0 +1,1 @@
+export { NameLearningTypeStroke } from "./NameLearningTypeStroke";

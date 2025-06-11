@@ -1,0 +1,1 @@
+export { NameCloseTypeStroke } from "./NameCloseTypeStroke";

@@ -1,0 +1,1 @@
+export { DtailsOffreDemploi } from "./DtailsOffreDemploi";

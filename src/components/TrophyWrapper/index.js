@@ -1,0 +1,1 @@
+export { TrophyWrapper } from "./TrophyWrapper";

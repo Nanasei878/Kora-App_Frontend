@@ -1,0 +1,1 @@
+export { SortSmallWrapper } from "./SortSmallWrapper";

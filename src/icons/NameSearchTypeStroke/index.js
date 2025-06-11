@@ -1,0 +1,1 @@
+export { NameSearchTypeStroke } from "./NameSearchTypeStroke";

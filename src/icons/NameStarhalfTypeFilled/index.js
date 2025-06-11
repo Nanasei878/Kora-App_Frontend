@@ -1,0 +1,1 @@
+export { NameStarhalfTypeFilled } from "./NameStarhalfTypeFilled";

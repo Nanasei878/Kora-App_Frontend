@@ -1,0 +1,1 @@
+export { NameStripTypeFilled } from "./NameStripTypeFilled";
